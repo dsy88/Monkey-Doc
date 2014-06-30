@@ -41,6 +41,5 @@ http://dev.mrdaguanjia.com/monkey_admin/activity/activity/add/。
 所以在李丽师姐实现的过程中，密切沟通，保证设计和实现的一直，经常查看一下部署出来的网页，看看是否和你们的想法一直
 部署网页的url将经常更新发给你们
 有些不懂的问题，经常查看FAQ文档
-https://github.com/acreation/Monkey-Server/edit/web_dev/FAQ.md
-
+https://github.com/dsy88/Monkey-Doc/edit/master/FAQ.md
 
