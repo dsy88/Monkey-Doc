@@ -15,7 +15,7 @@
 
 /org/account/login-->/org/account/register--> /org/account/profile --> /org/activity/list --> /org/activity/create --> /org/ads/add-->/org/activity/get --> /org/activity/update --> /org/activity/get --> /org/activity/delete --> /org/activity/get --> /org/activity/list --> /org/account/profile --> /org/ads/list --> /org/ads/get --> /org/ads/accept --> /org/ads/list
 
-/ads/account/login --> /ads/account/register --> /ads/account/profile --> /ads/activity/list --> /ads/activity/get --> /ads/bid/create --> /ads/
+/ads/account/login --> /ads/account/register --> /ads/account/profile --> /ads/activity/list --> /ads/activity/get --> /ads/bid/create --> /ads/activity/get --> /ads/activity/list-->/ads/bid/list-->/ads/bid/get-->/ads/bid/list
  
 5.活动管理页面功能
 
@@ -50,7 +50,6 @@ https://github.com/dsy88/Monkey-Doc/edit/master/FAQ.md
 竞标的列表应该和活动列表差不多， 也是这么一个表，里面是活动名字，广告位名字，广告位内容，竞拍价格，是否成交，应该是类似于淘宝已经买到的东西那样
 
 点击相应活动进去看到的应该是，活动的信息（链接到活动页面），社团的部分信息，已经购买到的广告位的信息等等，包括布这个活动的社团信息，联系人的信息，已经购买到的广告位（比如是横幅，多大，挂在哪）这种信息
-
 
 
 
